@@ -2,7 +2,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Active Directory </b>
-  - [Active Directory Home Lab](https://github.com/Nathan-keyes/ActiveDirectoryLab)) 
+  - [Active Directory Home Lab](https://github.com/Nathan-keyes/ActiveDirectoryLab) 
 - <b>SIEM Home Lab</b>
   - [Microsoft Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>WireShark</b>
